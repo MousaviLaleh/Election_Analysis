@@ -24,7 +24,7 @@ We are tasked with reporting the :
 ### Election Audit Results
 The analysis of the election show that:
 - There were 369,711 votes cast in the election. 
-<p float="left">
+<p align="right">
   <img src="/resources/images/03.png" width="100" />
 </p>
 
