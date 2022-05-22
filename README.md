@@ -1,9 +1,9 @@
-# Election_Analysis
+## Election_Analysis
 
-## Overview of Election Audit
+### Overview of Election Audit
 A Colorado Board of Elections employee has given us the following tasks to complete the election audit of a recent local congressional election. Since we are asked to automate the whole audit process in order to use for senatorial and local elections, we will use Python for this project.<br/>
 
-## Purpose
+### Purpose
 We are tasked with reporting the : 
 - The voter turnout for each county
 - The percentage of votes from each county out of the total count
@@ -14,14 +14,14 @@ We are tasked with reporting the :
 - The winner of the election
 <br/>
 
-## Resources
+### Resources
 :card_file_box: Data Resources : [election_results.csv](/resources/election_results.csv)<br/>
 :card_file_box: Output File : [election_analysis.txt](/analysis/election_analysis.txt)<br/>
 :card_file_box: Software : [Python 3.6.1](https://www.python.org/downloads/windows/),  [Visual Studio Code 1.38.1](https://code.visualstudio.com/download)
 - Note : use 'Windows x86-64 executable installer' for Python, and 'System Installer' version of VS-code 
 <br/>
 
-## Election Audit Results
+### Election Audit Results
 There is a bulleted list where each election outcome is addressed. (7 pt)
 - How many votes were cast in this congressional election?
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
@@ -30,7 +30,7 @@ There is a bulleted list where each election outcome is addressed. (7 pt)
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 <br/>
 
-## Election Audit Summary
+### Election Audit Summary
 The analysis of the election show that:
 - There were "x" votes cast in the election.
 - The candidates were:
