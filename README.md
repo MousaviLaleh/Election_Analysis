@@ -24,7 +24,7 @@ We are tasked with reporting the :
 ### Election Audit Results
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
-- There were 3 counties: 
+- The counties were: 
     - Jefferson :  with 38,855 number of votes and 10.5% of the vote.
     - Denver :  with 306,055 number of votes and 10.5% of the vote.
     - Arapahoe :  with 24,801 number of votes and 6.7% of the vote.
