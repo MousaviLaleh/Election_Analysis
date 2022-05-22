@@ -58,10 +58,10 @@ This code can be used on similar projects such as other congressional district e
 
 - Since Python script finds unique names of candidates and counties we can reuse this code on a much larger dataset with more candidates, more counties or other areas.
 - This code reads csv files but can be easily converted to read other files such as json, by importing other dependencies to the code, for example *import json*.<br/><br/>
-![03.png](/resources/images/03.png) <br/><br/>
+![03.png](/images/03.png) <br/><br/>
 - This code accesses the dataset in a specific directory and writes a report to a specific file, but this specific lines of codes can be easily fixed by renaming a directory and file in the code itself.<br/><br/>
-![04.png](/resources/images/04.png) <br/><br/>
+![04.png](/images/04.png) <br/><br/>
 - This code reads candidate name on 2nd index and county on 1st index, but in case of a different structure of the data set this lines of codes can be easily converted. <br/><br/>
-![05.png](/resources/images/05.png)<br/>
+![05.png](/images/05.png)<br/>
 <br/>
 <hr/>
