@@ -42,7 +42,7 @@ The [analysis](/resources/images/03.png) of the election show that:
 <br/>
 <p align="center">
    <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/resources/images/01.png"> 
-  <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/resources/images/02.png">
+  <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/01.png">
 </p>
 ### Election Audit Summary
 Using a programming language like Python, and writing scripts in Python has many advantages like automating processes, fast execution of the code, and reusing the code for similar projects. <br/>
