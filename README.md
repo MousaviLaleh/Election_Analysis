@@ -26,9 +26,9 @@ The [analysis](/resources/images/03.png) of the election show that:
 - There were 369,711 votes cast in the election. 
 
 - The counties were: 
-    - Jefferson :  with 38,855 number of votes and 10.5% out of the total votes.
-    - Denver    :  with 306,055 number of votes and 10.5% out of the total votes.
-    - Arapahoe  :  with 24,801 number of votes and 6.7% out of the total votes.
+    - Jefferson ::  with 38,855 number of votes and 10.5% out of the total votes.
+    - Denver    ::  with 306,055 number of votes and 10.5% out of the total votes.
+    - Arapahoe  ::  with 24,801 number of votes and 6.7% out of the total votes.
 
 - The candidates were:
     - Charles Casper Stockham :  with 85,213 number of votes and 23.0% of the vote.
