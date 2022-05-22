@@ -26,14 +26,14 @@ The [analysis](/resources/images/03.png) of the election show that:
 - There were 369,711 votes cast in the election. 
 
 - The counties were: 
-    - Jefferson :  with 38,855 number of votes and 10.5% of the vote.
-    - Denver :  with 306,055 number of votes and 10.5% of the vote.
-    - Arapahoe :  with 24,801 number of votes and 6.7% of the vote.
+    - Jefferson :  with 38,855 number of votes and 10.5% out of the total votes.
+    - Denver    :  with 306,055 number of votes and 10.5% out of the total votes.
+    - Arapahoe  :  with 24,801 number of votes and 6.7% out of the total votes.
 
 - The candidates were:
     - Charles Casper Stockham :  with 85,213 number of votes and 23.0% of the vote.
-    - Diana DeGette :  with 272,892 number of votes and 73.8% of the vote.
-    - Raymon Anthony Doane :  with 11,606 number of votes and 3.1% of the vote.
+    - Diana DeGette           :  with 272,892 number of votes and 73.8% of the vote.
+    - Raymon Anthony Doane    :  with 11,606 number of votes and 3.1% of the vote.
 
 - **Denver** county had the largest number of votes.
 
