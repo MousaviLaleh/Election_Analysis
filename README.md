@@ -32,15 +32,12 @@ There is a bulleted list where each election outcome is addressed. (7 pt)
 
 ### Election Audit Summary
 The analysis of the election show that:
-- There were "x" votes cast in the election.
+- There were 369,711 votes cast in the election.
 - The candidates were:
-    - Candidate 1
-    - Candidate 2
-    - Candidate 3
-- The candidate results were:
-    - Candidate 1 received "x%" of the vote and "y" number of votes.
-    - Candidate 2 received "x%" of the vote and "y" number of votes.
-    - Candidate 3 received "x%" of the vote and "y" number of votes.
+    - Charles Casper Stockham with 85,213 number number of votes and 23.0% of the vote.
+    - Diana DeGette with 272,892 number number of votes and 73.8% of the vote.
+    - Raymon Anthony Doane with 11,606 number of votes and 3.1% of the vote.
+
 - The winner of the election was:
-    - Candidate ( 1, 2 or 3), who received "x%" of the vote and "y" number of votes.
+    - Candidate Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
  
