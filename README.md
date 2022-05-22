@@ -1,7 +1,7 @@
 ## Election Analysis
 
 ### Overview of Election Audit
-A Colorado Board of Elections employee has given us the following tasks to complete the election audit of a recent local congressional election. Since we are asked to automate the whole audit process in order to use for senatorial and local elections, we will use Python for this project.<br/>
+A Colorado Board of Elections employee has given us the following tasks to complete the election audit of a recent local congressional election. Since we are asked to automate the whole audit process in order to use for senatorial and local elections, we will use [Python](https://www.python.org/doc/essays/blurb/) for this project.<br/>
 
 ### Purpose
 We are tasked with reporting the : 
