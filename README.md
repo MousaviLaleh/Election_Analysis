@@ -19,7 +19,7 @@ We are tasked with reporting the :
 :card_file_box: Output File : [election_analysis.txt](/analysis/election_analysis.txt)<br/>
 :card_file_box: Software : [Python 3.6.1](https://www.python.org/downloads/windows/),  [Visual Studio Code 1.38.1](https://code.visualstudio.com/download)
 - Note : use 'Windows x86-64 executable installer' for Python, and 'System Installer' version of VS-code 
-<br/>
+
 ### Election Audit Results
 The [analysis](/resources/images/03.png) of the election show that:
 - There were 369,711 votes cast in the election. 
@@ -39,7 +39,7 @@ The [analysis](/resources/images/03.png) of the election show that:
 and <br/>
 - **The winner** of the election was:
     - Candidate **Diana DeGette**, who received **73.8%** of the vote and **272,892** number of votes.
-<br/>
+
 
 ### Election Audit Summary
 Using a programming language like Python, and writing scripts in Python has many advantages like automating processes, fast execution of the code, and reusing the code for similar projects. <br/>
