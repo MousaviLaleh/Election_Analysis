@@ -3,7 +3,8 @@
 A Colorado Board of Elections employee has given us the following tasks to complete the election audit of a recent local congressional election.
 
 # Resources
-- Data Resources : election_results.csv
+- Data Resources : [election_results.csv](/resources/election_results.csv)
+- Output File : [election_analysis.txt](/analysis/election_analysis.txt)
 - Software: Python 3.6.1,  Visual Studio Code 1.38.1
 
 ## Summary
