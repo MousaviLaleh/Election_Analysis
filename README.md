@@ -34,7 +34,7 @@ The analysis of the election show that:
     - Diana DeGette :  with 272,892 number number of votes and 73.8% of the vote.
     - Raymon Anthony Doane :  with 11,606 number of votes and 3.1% of the vote.
 
-- **Denver** county had the largest number of votes.<br/>
+- **Denver** county had the largest number of votes.
 
 and <br/>
 - **The winner** of the election was:
