@@ -41,7 +41,7 @@ The [analysis](/resources/images/03.png) of the election show that:
     - Candidate **Diana DeGette**, who received **73.8%** of the vote and **272,892** number of votes.
 <br/>
 <p align="center">
-  <img width="460" height="300" src="\sources\image\03.png">
+  ![03.png](/resources/images/03.png)
 </p>
 ### Election Audit Summary
 Using a programming language like Python, and writing scripts in Python has many advantages like automating processes, fast execution of the code, and reusing the code for similar projects. <br/>
