@@ -22,6 +22,22 @@ We are tasked with reporting the :
 <br/>
 
 ### Election Audit Results
+The analysis of the election show that:
+- There were 3 counties: 
+    - Jefferson :  with 38,855 number of votes and 10.5% of the vote.
+    - Denver :  with 306,055 number of votes and 10.5% of the vote.
+    - Arapahoe :  with 24,801 number of votes and 6.7% of the vote.
+
+- There were 369,711 votes cast in the election.
+- The candidates were:
+    - Charles Casper Stockham :  with 85,213 number number of votes and 23.0% of the vote.
+    - Diana DeGette :  with 272,892 number number of votes and 73.8% of the vote.
+    - Raymon Anthony Doane :  with 11,606 number of votes and 3.1% of the vote.
+- The county with largest turnout was Denver
+and <br/>
+- **The winner** of the election was:
+    - Candidate **Diana DeGette**, who received **73.8%** of the vote and **272,892** number of votes.
+ 
 There is a bulleted list where each election outcome is addressed. (7 pt)
 - How many votes were cast in this congressional election?
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
@@ -31,13 +47,4 @@ There is a bulleted list where each election outcome is addressed. (7 pt)
 <br/>
 
 ### Election Audit Summary
-The analysis of the election show that:
-- There were 369,711 votes cast in the election.
-- The candidates were:
-    - Charles Casper Stockham with 85,213 number number of votes and 23.0% of the vote.
-    - Diana DeGette with 272,892 number number of votes and 73.8% of the vote.
-    - Raymon Anthony Doane with 11,606 number of votes and 3.1% of the vote.
 
-- **The winner** of the election was:
-    - Candidate **Diana DeGette**, who received **73.8%** of the vote and **272,892** number of votes.
- 
