@@ -22,9 +22,8 @@ We are tasked with reporting the :
 <br/>
 
 ### Election Audit Results
-The analysis of the election show that:
+The [analysis](/resources/images/03.png) of the election show that:
 - There were 369,711 votes cast in the election. 
-- ![03.png](/resources/images/03.png)
 
 - The counties were: 
     - Jefferson :  with 38,855 number of votes and 10.5% of the vote.
