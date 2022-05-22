@@ -43,7 +43,7 @@ The [analysis](/resources/images/03.png) of the election show that:
 <p align="center">
    <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/02.png"> 
   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/01.png"><br/>
-   code output from in command line  vs  in text file
+   code output in command line  vs   text file
 </p>
 ### Election Audit Summary
 Using a programming language like Python, and writing scripts in Python has many advantages like automating processes, fast execution of the code, and reusing the code for similar projects. <br/>
