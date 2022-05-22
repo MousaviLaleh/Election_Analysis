@@ -25,7 +25,7 @@ We are tasked with reporting the :
 The analysis of the election show that:
 - There were 369,711 votes cast in the election. 
 <p align="right">
-  <img src="/resources/images/03.png" width="100" />
+  <img src="/resources/images/03.png" width="40%" />
 </p>
 
 - The counties were: 
