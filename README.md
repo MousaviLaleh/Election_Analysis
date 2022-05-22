@@ -33,7 +33,7 @@ The analysis of the election show that:
     - Charles Casper Stockham :  with 85,213 number number of votes and 23.0% of the vote.
     - Diana DeGette :  with 272,892 number number of votes and 73.8% of the vote.
     - Raymon Anthony Doane :  with 11,606 number of votes and 3.1% of the vote.
-- The county with largest turnout was Denver
+- The **largest county turnout** was **Denver**
 
 and <br/>
 - **The winner** of the election was:
