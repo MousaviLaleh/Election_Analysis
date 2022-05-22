@@ -58,7 +58,4 @@ This code can be used on similar projects such as other congressional district e
 - This code reads candidate name on 2nd index and county on 1st index, but in case of a different structure of the data set this lines of codes can be easily converted. <br/>
 ![02.png](/resources/images/02.png) <br/>
 - Since Python script finds unique names of candidates and counties we can reuse this code on a much larger dataset with more candidates, more counties or other areas.
-- 
-- 
-
 <br/>
