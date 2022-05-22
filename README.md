@@ -12,7 +12,7 @@ We are tasked with reporting the :
 - The total number of votes for each candidate
 - The percentage of votes for each candidate
 - The winner of the election
-<br/>
+
 
 #### Resources
 :card_file_box: Data Resources : [election_results.csv](/resources/election_results.csv)<br/>
