@@ -53,7 +53,7 @@ Using a programming language like Python, and writing scripts in Python has many
 - declare a candidate winner base on the highest vote count and percentage,
 - declare a county with the highest turnout.
 
-This code can be used on similar projects such as other congressional district elections, senatorial districts, local elections, and more.<br/>
+This code can be used on similar projects such as other congressional district elections, senatorial districts, local elections, and more :<br/>
 
 - Since Python script finds unique names of candidates and counties we can reuse this code on a much larger dataset with more candidates, more counties or other areas.
 - This code reads csv files but can be easily converted to read other files such as json, by importing other dependencies to the code, for example *import json*.<br/><br/>
