@@ -5,7 +5,7 @@ A Colorado Board of Elections employee has given us the following tasks to compl
 # Resources
 - Data Resources : [election_results.csv](/resources/election_results.csv)
 - Output File : [election_analysis.txt](/analysis/election_analysis.txt)
-- Software: Python 3.6.1,  Visual Studio Code 1.38.1
+- Software : [Python 3.6.1](https://www.python.org/downloads/windows/),  [Visual Studio Code 1.38.1](https://code.visualstudio.com/download)
 
 ## Summary
 The analysis of the election show that:
