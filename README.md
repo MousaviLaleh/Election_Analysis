@@ -42,7 +42,7 @@ The [analysis](/resources/images/03.png) of the election show that:
 <br/>
 <p align="center">
    <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/02.png"> 
-  <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/01.png">
+  <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/01.png"><br/>
    code output from in command line  vs  in text file
 </p>
 ### Election Audit Summary
