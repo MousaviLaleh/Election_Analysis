@@ -1,6 +1,17 @@
 # Election_Analysis
 ## Overview of Election Audit
-A Colorado Board of Elections employee has given us the following tasks to complete the election audit of a recent local congressional election.
+A Colorado Board of Elections employee has given us the following tasks to complete the election audit of a recent local congressional election. 
+
+## Purpose
+We are tasked with reporting the : 
+- The voter turnout for each county
+- The percentage of votes from each county out of the total count
+- The county with the highest turnout
+- The total number of votes cast
+- The total number of votes for each candidate
+- The percentage of votes for each candidate
+- The winner of the election
+
 
 ## Resources
 :card_file_box: Data Resources : [election_results.csv](/resources/election_results.csv)<br/>
