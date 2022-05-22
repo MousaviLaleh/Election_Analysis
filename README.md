@@ -24,7 +24,7 @@ We are tasked with reporting :
 ### Election Audit Results
 The [analysis](/resources/images/03.png) of the election show that:
 - There were 369,711 votes cast in the election. 
-<img align="right" width="100" height="100" src="/sources/images/03.png">
+<img align="right" width="150" height="300" src="/sources/images/03.png">
 - The counties were: 
     - Jefferson :  with 38,855 number of votes and 10.5% out of the total votes.
     - Denver    :  with 306,055 number of votes and 10.5% out of the total votes.
