@@ -20,6 +20,7 @@ We are tasked with reporting the :
 :card_file_box: Software : [Python 3.6.1](https://www.python.org/downloads/windows/),  [Visual Studio Code 1.38.1](https://code.visualstudio.com/download)
 - Note : use 'Windows x86-64 executable installer' for Python, and 'System Installer' version of VS-code 
 
+
 ### Election Audit Results
 The [analysis](/resources/images/03.png) of the election show that:
 - There were 369,711 votes cast in the election. 
