@@ -3,9 +3,9 @@
 A Colorado Board of Elections employee has given us the following tasks to complete the election audit of a recent local congressional election.
 
 # Resources
-- Data Resources : [election_results.csv](/resources/election_results.csv)
-- Output File : [election_analysis.txt](/analysis/election_analysis.txt)
-- Software : [Python 3.6.1](https://www.python.org/downloads/windows/),  [Visual Studio Code 1.38.1](https://code.visualstudio.com/download)
+:card_file_box: Data Resources : [election_results.csv](/resources/election_results.csv)
+:card_file_box: Output File : [election_analysis.txt](/analysis/election_analysis.txt)
+:card_file_box: Software : [Python 3.6.1](https://www.python.org/downloads/windows/),  [Visual Studio Code 1.38.1](https://code.visualstudio.com/download)
 
 ## Summary
 The analysis of the election show that:
