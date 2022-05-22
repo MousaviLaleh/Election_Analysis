@@ -55,9 +55,9 @@ Using a programming language like Python, and writing scripts in Python has many
 This code can be used on similar projects such as other congressional district elections, senatorial districts, local elections, and more.<br/>
 - Since Python script finds unique names of candidates and counties we can reuse this code on a much larger dataset with more candidates, more counties or other areas.
 - This code reads csv files but can be easily converted to read other files such as json, by importing other dependencies for example import json.<br/>
-![04.png](/resources/images/04.png) <br/>
+![04.png](/resources/images/04.png) <br/><br/>
 - This code accesses the dataset in a specific directory and writes a report to a specific file, but this specific lines of codes can be easily fixed by renaming a directory and file in the code itself.<br/><br/>
-![01.png](/resources/images/01.png) <br/>
+![01.png](/resources/images/01.png) <br/><br/>
 - This code reads candidate name on 2nd index and county on 1st index, but in case of a different structure of the data set this lines of codes can be easily converted. <br/><br/>
 ![02.png](/resources/images/02.png)<br/>
 <br/>
