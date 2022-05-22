@@ -24,7 +24,7 @@ We are tasked with reporting :
 ### Election Audit Results
 The [analysis](/resources/images/03.png) of the election show that:
 - There were 369,711 votes cast in the election. 
-<img align="right" width="150" height="300" src="/sources/images/03.png">
+<img align="right" width="150" height="300" src="./sources/images/03.png">
 - The counties were: 
     - Jefferson :  with 38,855 number of votes and 10.5% out of the total votes.
     - Denver    :  with 306,055 number of votes and 10.5% out of the total votes.
@@ -40,7 +40,9 @@ The [analysis](/resources/images/03.png) of the election show that:
 - **The winner** of the election was:
     - Candidate **Diana DeGette**, who received **73.8%** of the vote and **272,892** number of votes.
 <br/>
-
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
 ### Election Audit Summary
 Using a programming language like Python, and writing scripts in Python has many advantages like automating processes, fast execution of the code, and reusing the code for similar projects. <br/>
 This code quickly returns numerous data for a U.S. Congressional Precinct in Colorado, but can be easily used but for other elections as well. This code will automatically :
