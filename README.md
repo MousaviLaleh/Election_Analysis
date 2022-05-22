@@ -54,7 +54,7 @@ Using a programming language like Python, and writing scripts in Python has many
 - declare a county with the highest turnout.<br/>
 This code can be used on similar projects such as other congressional district elections, senatorial districts, local elections, and more.<br/>
 - Since Python script finds unique names of candidates and counties we can reuse this code on a much larger dataset with more candidates, more counties or other areas.
-- This code reads csv files but can be easily converted to read other files such as json, by importing other dependencies for example import json.<br/><br/>
+- This code reads csv files but can be easily converted to read other files such as json, by importing other dependencies for example import > json.<br/><br/>
 ![04.png](/resources/images/04.png) <br/><br/>
 - This code accesses the dataset in a specific directory and writes a report to a specific file, but this specific lines of codes can be easily fixed by renaming a directory and file in the code itself.<br/><br/>
 ![01.png](/resources/images/01.png) <br/><br/>
