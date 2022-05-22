@@ -13,14 +13,12 @@ We are tasked with reporting the :
 - The percentage of votes for each candidate
 - The winner of the election
 <br/>
-
 #### Resources
 :card_file_box: Data Resources : [election_results.csv](/resources/election_results.csv)<br/>
 :card_file_box: Output File : [election_analysis.txt](/analysis/election_analysis.txt)<br/>
 :card_file_box: Software : [Python 3.6.1](https://www.python.org/downloads/windows/),  [Visual Studio Code 1.38.1](https://code.visualstudio.com/download)
 - Note : use 'Windows x86-64 executable installer' for Python, and 'System Installer' version of VS-code 
 <br/>
-
 ### Election Audit Results
 The [analysis](/resources/images/03.png) of the election show that:
 - There were 369,711 votes cast in the election. 
