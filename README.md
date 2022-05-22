@@ -6,7 +6,7 @@ A Colorado Board of Elections employee has given us the following tasks to compl
 :card_file_box: Data Resources : [election_results.csv](/resources/election_results.csv)<br/>
 :card_file_box: Output File : [election_analysis.txt](/analysis/election_analysis.txt)<br/>
 :card_file_box: Software : [Python 3.6.1](https://www.python.org/downloads/windows/),  [Visual Studio Code 1.38.1](https://code.visualstudio.com/download)
-- Note : use Windows x86-64 executable installer for Python, and System Installer version of VS-code
+- Note : use 'Windows x86-64 executable installer' for Python, and 'System Installer' version of VS-code
 
 ## Election Audit Results
 There is a bulleted list where each election outcome is addressed. (7 pt)
