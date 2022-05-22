@@ -43,5 +43,17 @@ and <br/>
 
 ### Election Audit Summary
 There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script.  (4 pt)
-<br/>
+
+Using a programming language like Python, and writing scripts in Python has many advantages like automating processes, fast execution of the code, and reusing the code for similar projects. This code quickly returns numerous data for a U.S. Congressional Precinct in Colorado, but can be easily used but for other elections as well. This code will automatically:
+- find candidates names,
+- find counties,
+- count votes for each candidate and calculate vote percentage,
+- count turnout per county and calculate their percentage,
+- declare a candidate winner base on the highest vote count and percentage,
+- declare a county with the highest turnout.<br/>
+This code can be used on similar projects such as other congressional district elections, senatorial districts, local elections, and more.<br/>
+- This code reads csv files but can be easily converted to read other files such as json, by importing other dependencies for example import json.
+- By changing your source file-name and/or address, you can easily handle any amount of data in .csv file with the same structure of  election_result.csv  file.
+![]()
+
 <br/>
