@@ -43,9 +43,8 @@ and <br/>
 <br/>
 
 ### Election Audit Summary
-There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script.  (4 pt)
-
-Using a programming language like Python, and writing scripts in Python has many advantages like automating processes, fast execution of the code, and reusing the code for similar projects. This code quickly returns numerous data for a U.S. Congressional Precinct in Colorado, but can be easily used but for other elections as well. This code will automatically:
+Using a programming language like Python, and writing scripts in Python has many advantages like automating processes, fast execution of the code, and reusing the code for similar projects. <br/>
+This code quickly returns numerous data for a U.S. Congressional Precinct in Colorado, but can be easily used but for other elections as well. This code will automatically:
 - find candidates names,
 - find counties,
 - count votes for each candidate and calculate vote percentage,
