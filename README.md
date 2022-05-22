@@ -4,7 +4,7 @@
 A Colorado Board of Elections employee has given us the following tasks to complete the election audit of a recent local congressional election. Since we are asked to automate the whole audit process in order to use for senatorial and local elections, we will use [Python](https://www.python.org/doc/essays/blurb/) for this project.<br/>
 
 ### Purpose
-We are tasked with reporting the : 
+We are tasked with reporting : 
 - The voter turnout for each county
 - The percentage of votes from each county out of the total count
 - The county with the highest turnout
@@ -18,7 +18,7 @@ We are tasked with reporting the :
 :card_file_box: Data Resources : [election_results.csv](/resources/election_results.csv)<br/>
 :card_file_box: Output File : [election_analysis.txt](/analysis/election_analysis.txt)<br/>
 :card_file_box: Software :  [Python 3.6.1](https://www.python.org/downloads/windows/) &#44;  [Visual Studio Code 1.38.1](https://code.visualstudio.com/download)
-- Note : use 'Windows x86-64 executable installer' for Python, and 'System Installer' version of VS-code 
+- Note : use 'Windows x86-64 executable installer' for Python, and 'System Installer' version of VS-Code 
 <br/>
 
 ### Election Audit Results
@@ -31,8 +31,8 @@ The [analysis](/resources/images/03.png) of the election show that:
     - Arapahoe :  with 24,801 number of votes and 6.7% of the vote.
 
 - The candidates were:
-    - Charles Casper Stockham :  with 85,213 number number of votes and 23.0% of the vote.
-    - Diana DeGette :  with 272,892 number number of votes and 73.8% of the vote.
+    - Charles Casper Stockham :  with 85,213 number of votes and 23.0% of the vote.
+    - Diana DeGette :  with 272,892 number of votes and 73.8% of the vote.
     - Raymon Anthony Doane :  with 11,606 number of votes and 3.1% of the vote.
 
 - **Denver** county had the largest number of votes.
@@ -51,7 +51,7 @@ This code quickly returns numerous data for a U.S. Congressional Precinct in Col
 - declare a candidate winner base on the highest vote count and percentage,
 - declare a county with the highest turnout.
 
-This code can be used on similar projects such as other congressional district elections, senatorial districts, local elections, and more :<br/>
+This code can be used on similar projects such as other congressional district elections, senatorial districts, local elections, and more.<br/>
 
 - Since Python script finds unique names of candidates and counties we can reuse this code on a much larger dataset with more candidates, more counties or other areas.
 - This code reads csv files but can be easily converted to read other files such as json, by importing other dependencies to the code, for example *import json*.<br/><br/>
