@@ -40,7 +40,6 @@ The [analysis](/resources/images/03.png) of the election show that:
 and <br/>
 - **The winner** of the election was:
     - Candidate **Diana DeGette**, who received **73.8%** of the vote and **272,892** number of votes.
-
 <br/>
 
 ### Election Audit Summary
