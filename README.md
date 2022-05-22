@@ -41,8 +41,8 @@ The [analysis](/resources/images/03.png) of the election show that:
     - Candidate **Diana DeGette**, who received **73.8%** of the vote and **272,892** number of votes.
 <br/>
 <p align="center">
-   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/resources/images/05.png"> 
-  <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/resources/images/03.png">
+   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/resources/images/01.png"> 
+  <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/resources/images/02.png">
 </p>
 ### Election Audit Summary
 Using a programming language like Python, and writing scripts in Python has many advantages like automating processes, fast execution of the code, and reusing the code for similar projects. <br/>
@@ -58,10 +58,10 @@ This code can be used on similar projects such as other congressional district e
 
 - Since Python script finds unique names of candidates and counties we can reuse this code on a much larger dataset with more candidates, more counties or other areas.
 - This code reads csv files but can be easily converted to read other files such as json, by importing other dependencies to the code, for example *import json*.<br/><br/>
-![04.png](/resources/images/04.png) <br/><br/>
+![03.png](/resources/images/03.png) <br/><br/>
 - This code accesses the dataset in a specific directory and writes a report to a specific file, but this specific lines of codes can be easily fixed by renaming a directory and file in the code itself.<br/><br/>
-![01.png](/resources/images/01.png) <br/><br/>
+![04.png](/resources/images/04.png) <br/><br/>
 - This code reads candidate name on 2nd index and county on 1st index, but in case of a different structure of the data set this lines of codes can be easily converted. <br/><br/>
-![02.png](/resources/images/02.png)<br/>
+![05.png](/resources/images/05.png)<br/>
 <br/>
 <hr/>
