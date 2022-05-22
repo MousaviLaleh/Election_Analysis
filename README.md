@@ -1,4 +1,4 @@
-## Election_Analysis
+## Election Analysis
 
 ### Overview of Election Audit
 A Colorado Board of Elections employee has given us the following tasks to complete the election audit of a recent local congressional election. Since we are asked to automate the whole audit process in order to use for senatorial and local elections, we will use Python for this project.<br/>
