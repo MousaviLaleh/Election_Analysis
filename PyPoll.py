@@ -4,6 +4,7 @@
 # the percentage of votes each candidate won
 # the total number of votes each candidate won
 # the winner of the election based on popular vote
+
 import csv
 import os
 
@@ -40,12 +41,12 @@ with open(file_to_load) as election_data:
         print(election_results, end="")
         txt_file.write(election_results)
 
+        # Retrieve vote count and percentage
         for candidate_name in candidate_votes:
             votes = candidate_votes[candidate_name]
             vote_percentage = float(votes) / float(total_votes) * 100
 
-            candidate_results = (
-            f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")
+            candidate_results = (f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")
             print(candidate_results)
             txt_file.write(candidate_results)
 
@@ -53,9 +54,7 @@ with open(file_to_load) as election_data:
                 winning_count = votes
                 winning_candidate = candidate_name
                 winning_percentage = vote_percentage
-
-            # print(f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")
-            
+          
         winning_candidate_summary = (
             f"-------------------------\n"
             f"Winner: {winning_candidate}\n"
@@ -64,13 +63,3 @@ with open(file_to_load) as election_data:
             f"-------------------------\n")
         print(winning_candidate_summary)
         txt_file.write(winning_candidate_summary)
-
-        
-       
-
-        # for candidate_name in candidate_votes:
-        #     candidate_results = (f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")
-        #     print(candidate_results)
-        #     txt_file.write(candidate_results)
-
-
