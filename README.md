@@ -46,10 +46,16 @@ One of the most important steps in data analytics is opening, reading, and writi
     <br/>Note : Directory has to be provided exactly. Letter case matters.
 
 **3. Open and read the file**  <br/>
-![]()
+<p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/08.png"></p>
    
 **4. Declare and and skip the header row**  <br/>
-![]()
+<p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/09.png"></p>
+
+
+<center>
+   the full code to open and read a file
+   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/10.png">
+</center>
 **5. Additional code for writing a file**  <br/>
 
 
