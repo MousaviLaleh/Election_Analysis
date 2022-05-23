@@ -22,7 +22,7 @@ We are tasked with reporting :
 <br/>
 
 ### Code Output in Command Line  vs   Text File
-<table align="center" border=3>
+<table align="center" border=0>
   <tr>
     <th>in Command Line</th>
     <th></th>
