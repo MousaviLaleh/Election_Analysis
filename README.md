@@ -20,7 +20,7 @@ We are tasked with reporting :
 - Note : use 'Windows x86-64 executable installer' for Python, and 'System Installer' version of VS-Code 
 
 
-### Code Output in Command Line  vs   Text File
+#### Code Output in Command Line  vs   Text File
 
 <p align="center">
   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/02.png"> _ - _ - _ - _ - _
