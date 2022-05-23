@@ -56,7 +56,7 @@ One of the most important steps in data analytics is opening, reading, and writi
 
 **4. Declare and and skip the header row** 
 <p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/09.png"></p>
-this function will skip first row of data which is the header
+this function will skip first row of data which is the header.  <br/><br/>
 
 <p align="center">
    the full code to open and read a file<br/>
