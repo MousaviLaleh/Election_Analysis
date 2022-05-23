@@ -54,7 +54,7 @@ One of the most important steps in data analytics is opening, reading, and writi
    - ```election_data``` - passing an argument to a function, a file that we want function to read.
 
 
-**4. Declare and and skip the header row** 
+**4. Declare and and skip the header row**  <br/>
 this function will skip first row of data which is the header.
 <p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/09.png"></p>
 <br/><br/>
