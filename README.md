@@ -22,7 +22,7 @@ We are tasked with reporting :
 <br/>
 
 ### Overview of the methods and code
-#### :black_medium_small_square: Open, read & write the file
+#### :black_medium_square: Open, read & write the file
 One of the most important steps in data analytics is opening, reading, and writing a file. Opening and reading a file is the first step that needs to be done in order to start data analysis.<br/>
 
 **1. Import dependencies**<br/><br/>
@@ -51,10 +51,10 @@ One of the most important steps in data analytics is opening, reading, and writi
 **5. Additional code for writing a file**
 
 
-#### :black_medium_small_square: Looping through dictionaries and the lists
-#### :black_medium_small_square: The get() method
-#### :black_medium_small_square: Finding the winner
-#### :black_medium_small_square: 
+#### :black_medium_square: Looping through dictionaries and the lists
+#### :black_medium_square: The get() method
+#### :black_medium_square: Finding the winner
+#### :black_medium_square: 
 
 ### Election Audit Results
 The [analysis](/resources/images/03.png) of the election show that:
