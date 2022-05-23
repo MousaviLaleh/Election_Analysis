@@ -26,8 +26,7 @@ We are tasked with reporting :
 One of the most important steps in data analytics is opening, reading, and writing a file. Opening and reading a file is the first step that needs to be done in order to start data analysis.<br/>
 
 **1. Import dependencies**<br/><br/>
-    ```import csv``` <br/>
-    ```import os```<br/>
+   ![]()
   
   - ```import csv``` :  allows to easily pull data from external CSV files and perform operations on them. This dependency includes the following functions:
     - next() - skips the row (most commonly used to skip a header row).
@@ -38,7 +37,7 @@ One of the most important steps in data analytics is opening, reading, and writi
     - join() - joins file path components together when they are provided as separate strings; then, it returns a direct path with the appropriate operating system separator, forward slash for macOS or backward slash for Windows
 
 **2. Declare a variable, and load a file from the path** <br/><br/>
-    ```file_to_load = os.path.join("resources", "election_results.csv")``` <br/>
+   ![]()
     
    - ```file_to_load``` - declaring a variable for the file.
    - ```resources``` - directory of the file.
@@ -47,11 +46,10 @@ One of the most important steps in data analytics is opening, reading, and writi
     <br/>Note : Directory has to be provided exactly. Letter case matters.
 
 **3. Open and read the file**  <br/>
-  with open(file_to_load) as election_data:
-   file_to_read = csv.reader(election_data)
+![]()
    
 **4. Declare and and skip the header row**  <br/>
-
+![]()
 **5. Additional code for writing a file**  <br/>
 
 
