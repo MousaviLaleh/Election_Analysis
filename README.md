@@ -25,8 +25,8 @@ We are tasked with reporting :
 #### Open, read & write the file
 One of the most important steps in data analytics is opening, reading, and writing a file. Opening and reading a file is the first step that needs to be done in order to start data analysis.
 1. Import dependencies<br/>
-        ```import csv``` <br/>
-        ```import os```
+        - ```import csv```
+        - ```import os```
 2. Declare a variable, and load a file from the path
 
 3. Open and read the file
