@@ -22,13 +22,13 @@ We are tasked with reporting :
 <br/>
 
 ### Code Output in Command Line  vs   Text File
-<table align="center" border=0px>
-  <tr border=0px>
+<table align="center" border="0px">
+  <tr border="0px">
     <th>in Command Line</th>
     <th></th>
     <th>in Text file</th>
   </tr>
-  <tr border=0px>
+  <tr border="0px">
     <td><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/02.png"></td>
     <td></td>
     <td><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/01.png"></td>
