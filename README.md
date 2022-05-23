@@ -21,10 +21,8 @@ We are tasked with reporting :
 - Note : use 'Windows x86-64 executable installer' for Python, and 'System Installer' version of VS-Code 
 <br/>
 
-### Election Result
+### Code Output in Command Line  vs   Text File
 <p align="center">
-  <b>Code Output in Command Line  vs   Text File</b>  
-  <br/><br/>
   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/02.png">  - - - - 
   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/01.png">
 </p>
