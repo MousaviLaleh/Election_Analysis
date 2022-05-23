@@ -45,6 +45,7 @@ One of the most important steps in data analytics is opening, reading, and writi
     
     Note : Directory has to be provided exactly. Letter case matters.
 
+
 **3. Open and read the file** 
 <p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/08.png"></p>
 
