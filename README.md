@@ -63,8 +63,8 @@ this function will skip first row of data which is the header.
    the full code to open and read a file<br/>
    <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/10.png">
 </p>
-<br/>
-
+<br/><br/>
+<hr>
 **5. Codes to write the output file**  <br/>
 <p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/11.png"></p>
 This line of code will create a file "election_results.txt" in the “Analysis" folder if the file doesn’t exist yet. The folder must already exist.
