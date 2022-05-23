@@ -67,6 +67,8 @@ this function will skip first row of data which is the header.
 
 **5. Declare a variable to save the file to a path**  <br/>
 <p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/11.png"></p>
+This line of code will create a file "election_results.txt" in the “Analysis" folder if the file doesn’t exist yet. The folder must already exist.
+
 
 #### :black_medium_square: Looping through dictionaries and the lists
 #### :black_medium_square: The get() method
