@@ -69,5 +69,5 @@ This code can be used on similar projects such as other congressional district e
 - This code reads candidate name on 2nd index and county on 1st index, but in case of a different structure of the data set this lines of codes can be easily converted. <br/><br/>
 ![05.png](/images/05.png)<br/>
 <br/>
-<hr width=100px align="center"/>
+
 
