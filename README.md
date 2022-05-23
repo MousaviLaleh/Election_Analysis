@@ -72,7 +72,7 @@ This line of code will create a file "election_results.txt" in the “Analysis" 
 
 <p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/12.png"></p>
 
-In this function, we must specify the method "w" as in _"write mode"_ in order to be able to write in a file. When using "w" method, Python will owerwrite existing contents if the file already exists. To avoid that, we can use "a" as the _"append"_ method. If a file does not exist, it creates one, if a file has been created the data will be added to the file.  <br/>
+In this function, we must specify the method "w" as the _"write"_ mode in order to write in a file. When using "w" method, Python will owerwrite existing contents th the file which already exists. We also can use "a" as the _"append"_ method. If a file does not exist, it creates one, if a file has been created the data will be added to the file.  <br/>
 
 <p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/13.png"></p>
 
