@@ -45,6 +45,7 @@ The [analysis](/resources/images/03.png) of the election show that:
   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/01.png"><br/>
    code output in command line  vs   text file
 </p>
+
 ### Election Audit Summary
 Using a programming language like Python, and writing scripts in Python has many advantages like automating processes, fast execution of the code, and reusing the code for similar projects. <br/>
 This code quickly returns numerous data for a U.S. Congressional Precinct in Colorado, but can be easily used but for other elections as well. This code will automatically :
