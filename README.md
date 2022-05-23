@@ -23,7 +23,8 @@ We are tasked with reporting :
 
 ### Overview of the methods and code
 #### :black_medium_small_square: Open, read & write the file
-One of the most important steps in data analytics is opening, reading, and writing a file. Opening and reading a file is the first step that needs to be done in order to start data analysis.
+One of the most important steps in data analytics is opening, reading, and writing a file. Opening and reading a file is the first step that needs to be done in order to start data analysis.<br/>
+
 **1. Import dependencies**<br/><br/>
     ```import csv``` <br/>
     ```import os```<br/>
