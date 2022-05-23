@@ -45,7 +45,6 @@ One of the most important steps in data analytics is opening, reading, and writi
     
     Note : Directory has to be provided exactly. Letter case matters.
 
-
 **3. Open and read the file** 
 <p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/08.png"></p>
 
@@ -55,12 +54,9 @@ One of the most important steps in data analytics is opening, reading, and writi
    - ```election_data``` - passing an argument to a function, a file that we want function to read.
 
 
-
-
-   
 **4. Declare and and skip the header row** 
 <p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/09.png"></p>
-
+this function will skip first row of data which is the header
 
 <p align="center">
    the full code to open and read a file<br/>
