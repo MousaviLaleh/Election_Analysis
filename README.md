@@ -71,10 +71,10 @@ This line of code will create a file "election_results.txt" in the “Analysis" 
 <br/><br/>
 
 <p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/12.png"></p>
-In this function, we must specify the method "w" as in ```write mode``` in order to be able to write in a file. When using "w" method, Python will owerwrite existing contents if the file already exists. To avoid that, we can use "a" as in ```append``` method. If a file does not exist, it creates one, if a file has been created the data will be added to the file.  <br/>
+In this function, we must specify the method "w" as in *write mode* in order to be able to write in a file. When using "w" method, Python will owerwrite existing contents if the file already exists. To avoid that, we can use "a" as in *append* method. If a file does not exist, it creates one, if a file has been created the data will be added to the file.  <br/>
 
 <p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/13.png"></p>
-With the ```write()``` function, we declare what to write in a txt_file. txt_file is a new variable that is passed on from “original variable file_to_save”. In parentheses (election_results) is a name of a variable that contains data about what we want to write in a file.  <br/>
+With the *write()* function, we declare what to write in a txt_file. txt_file is a new variable that is passed on from “original variable file_to_save”. In parentheses (election_results) is a name of a variable that contains data about what we want to write in a file.  <br/>
 
 #### :black_medium_square: Looping through dictionaries and the lists
 #### :black_medium_square: The get() method
