@@ -28,11 +28,11 @@ One of the most important steps in data analytics is opening, reading, and writi
    - ```import csv``` <br/>
    - ```import os```<br/>
   
-  - import csv :  allows to easily pull data from external CSV files and perform operations on them. This dependency includes the following functions:
+  - ```import csv``` :  allows to easily pull data from external CSV files and perform operations on them. This dependency includes the following functions:
     - next() - skips the row (most commonly used to skip a header row).
     - reader() - reads each row from the csv file and return data as a list of strings.
    
-  - import os : allows to interact with the operating system. This dependency includes the following functions:
+  - ```import os``` : allows to interact with the operating system. This dependency includes the following functions:
     - path() - allows us to access files on different operating systems.
     - join() - joins file path components together when they are provided as separate strings; then, it returns a direct path with the appropriate operating system separator, forward slash for macOS or backward slash for Windows
 
