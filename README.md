@@ -41,11 +41,12 @@ The [analysis](/resources/images/03.png) of the election show that:
 - **The winner** of the election was:
     - Candidate **Diana DeGette**, who received **73.8%** of the vote and **272,892** number of votes.
 <br/>
+<p align="center">
   <b>Code Output in Command Line  vs   Text File</b>  
   <br/><br/>
   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/02.png">  - - - - 
   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/01.png">
-
+</p>
 
 
 ### Election Audit Summary
