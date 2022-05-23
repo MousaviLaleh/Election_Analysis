@@ -52,10 +52,10 @@ One of the most important steps in data analytics is opening, reading, and writi
 <p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/09.png"></p>
 
 
-<center>
+<p align="center">
    the full code to open and read a file
    <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/10.png">
-</center>
+</p>
 **5. Additional code for writing a file**  <br/>
 
 
