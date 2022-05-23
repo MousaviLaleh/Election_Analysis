@@ -47,6 +47,11 @@ One of the most important steps in data analytics is opening, reading, and writi
 
 **3. Open and read the file** 
 <p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/08.png"></p>
+- ```with open() statement``` - opens the file and ensures the proper acquisition of data without having to close the file, so the data isn’t lost or corrupted.
+- ```as <variable_name>``` - assigning alias to a variable.
+- ```csv.reader()``` - a new variable that will be used in the for loop to access the elements via indexes.
+- ```election_data``` - passing an argument to a function, a file that we want function to read.
+
    
 **4. Declare and and skip the header row** 
 <p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/09.png"></p>
