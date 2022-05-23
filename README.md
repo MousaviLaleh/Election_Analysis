@@ -22,12 +22,6 @@ We are tasked with reporting :
 <br/>
 
 ### Code Output in Command Line  vs   Text File
-<table>
-  <tr>
-    <td><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/02.png"></td>
-   <td> <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/01.png"></td> 
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/02.png">  - - - - 
