@@ -43,7 +43,7 @@ One of the most important steps in data analytics is opening, reading, and writi
    - ```resources``` - directory of the file.
    - ```election_results.csv``` - name of the file.
     
-    <br/>Note : Directory has to be provided exactly. Letter case matters.
+    Note : Directory has to be provided exactly. Letter case matters.
 
 **3. Open and read the file** 
 <p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/08.png"></p>
