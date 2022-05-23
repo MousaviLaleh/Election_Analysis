@@ -41,7 +41,7 @@ One of the most important steps in data analytics is opening, reading, and writi
     - ```file_to_load``` - declaring a variable for the file
     - ```resources``` - is directory of the file
     - ```election_results.csv``` - name of the data file
-    Note : Directory has to be provided exactly. Letter case matters.
+    <br/>Note : Directory has to be provided exactly. Letter case matters.
 
 3. Open and read the file
 
