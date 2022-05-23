@@ -45,11 +45,11 @@ One of the most important steps in data analytics is opening, reading, and writi
     
     <br/>Note : Directory has to be provided exactly. Letter case matters.
 
-**3. Open and read the file**  <br/>
+**3. Open and read the file** 
 <p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/08.png"></p>
    
-**4. Declare and and skip the header row**  <br/>
-<img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/09.png">
+**4. Declare and and skip the header row** 
+<p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/09.png"></p>
 
 
 <p align="center">
