@@ -32,6 +32,7 @@ One of the most important steps in data analytics is opening, reading, and writi
         - next() - skips the row (most commonly used to skip a header row).
         - reader() - reads each row from the csv file and return data as a lists of strings (each row is a new list).
 
+
 2. Declare a variable, and load a file from the path
 
 3. Open and read the file
