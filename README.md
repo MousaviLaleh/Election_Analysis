@@ -46,13 +46,13 @@ One of the most important steps in data analytics is opening, reading, and writi
     
     <br/>Note : Directory has to be provided exactly. Letter case matters.
 
-**3. Open and read the file**
+**3. Open and read the file**  <br/>
     ```with open(file_to_load) as election_data:
         file_to_read = csv.reader(election_data)```
 
-**4. Declare and and skip the header row**
+**4. Declare and and skip the header row**  <br/>
 
-**5. Additional code for writing a file**
+**5. Additional code for writing a file**  <br/>
 
 
 #### :black_medium_square: Looping through dictionaries and the lists
