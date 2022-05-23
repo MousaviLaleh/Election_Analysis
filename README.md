@@ -37,7 +37,7 @@ One of the most important steps in data analytics is opening, reading, and writi
     - join() - joins file path components together when they are provided as separate strings; then, it returns a direct path with the appropriate operating system separator, forward slash for macOS or backward slash for Windows
 
 2. Declare a variable, and load a file from the path<br/>
-    ```file_to_load = os.path.join("Resources", "election_results.csv")```
+    ```file_to_load = os.path.join("resources", "election_results.csv")```
     - ```file_to_load``` - declaring a variable for the file
     - ```resources``` - is directory of the file
     - ```election_results.csv``` - name of the data file
