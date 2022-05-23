@@ -65,8 +65,8 @@ this function will skip first row of data which is the header.
 </p>
 <br/>
 
-**5. Additional code for writing a file**  <br/>
-file_to_save = os.path.join("Analysis", "election_results.txt")
+**5. Declare a variable to save the file to a path**  <br/>
+<p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/11.png"></p>
 
 #### :black_medium_square: Looping through dictionaries and the lists
 #### :black_medium_square: The get() method
