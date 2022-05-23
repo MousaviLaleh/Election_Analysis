@@ -26,7 +26,7 @@ We are tasked with reporting :
   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/02.png">
   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/01.png">
 </p>
- <hr width=100px height:1px/>
+
 
 ### Election Audit Results
 The [analysis](/images/01.png) of the election show that:
@@ -69,5 +69,5 @@ This code can be used on similar projects such as other congressional district e
 - This code reads candidate name on 2nd index and county on 1st index, but in case of a different structure of the data set this lines of codes can be easily converted. <br/><br/>
 ![05.png](/images/05.png)<br/>
 <br/>
-<hr width=1px/>
+<hr width=100px align="center"/>
 
