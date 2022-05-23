@@ -36,8 +36,8 @@ One of the most important steps in data analytics is opening, reading, and writi
     - path() - allows us to access files on different operating systems.
     - join() - joins file path components together when they are provided as separate strings; then, it returns a direct path with the appropriate operating system separator, forward slash for macOS or backward slash for Windows
 
-**2. Declare a variable, and load a file from the path** <br/><br/>
-   ![]()
+**2. Declare a variable, and load a file from the path** <br/>
+ <p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/07.png"></p>
     
    - ```file_to_load``` - declaring a variable for the file.
    - ```resources``` - directory of the file.
