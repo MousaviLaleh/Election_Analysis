@@ -23,9 +23,12 @@ We are tasked with reporting :
 
 ### Code Output in Command Line  vs   Text File
 <table>
-  <tr><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/02.png"></tr> 
-  <tr> <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/01.png"></tr> 
+  <tr>
+    <td><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/02.png"></td>
+   <td> <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/01.png"></td> 
+  </tr>
 </table>
+
 <p align="center">
   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/02.png">  - - - - 
   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/01.png">
