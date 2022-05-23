@@ -21,6 +21,13 @@ We are tasked with reporting :
 - Note : use 'Windows x86-64 executable installer' for Python, and 'System Installer' version of VS-Code 
 <br/>
 
+### Election Result
+<p align="center">
+  <b>Code Output in Command Line  vs   Text File</b>  
+  <br/><br/>
+  <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/02.png">  - - - - 
+  <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/01.png">
+</p>
 
 ### Election Audit Results
 The [analysis](/images/01.png) of the election show that:
@@ -41,13 +48,7 @@ The [analysis](/images/01.png) of the election show that:
 - **The winner** of the election was:
     - Candidate **Diana DeGette**, who received **73.8%** of the vote and **272,892** number of votes.
 <br/>
-<p align="center">
-  <b>Code Output in Command Line  vs   Text File</b>  
-  <br/><br/>
-  <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/02.png">  - - - - 
-  <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/01.png">
-</p>
-<hr/>
+
 
 ### Election Audit Summary
 Using a programming language like Python, and writing scripts in Python has many advantages like automating processes, fast execution of the code, and reusing the code for similar projects. <br/>
