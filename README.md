@@ -26,7 +26,7 @@ We are tasked with reporting :
   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/02.png"> _ - _ - _ - _ - _
   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/01.png">
 </p>
-
+<br/>
 
 ### Election Audit Results
 The [analysis](/images/01.png) of the election show that:
