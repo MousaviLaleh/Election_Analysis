@@ -23,8 +23,7 @@ We are tasked with reporting :
 ### Code Output in Command Line  vs   Text File
 
 <p align="center">
-  <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/02.png">
-  <img src="">
+  <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/02.png"> _ - _ - _ - _ - _
   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/01.png">
 </p>
 
