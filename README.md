@@ -22,8 +22,7 @@ We are tasked with reporting :
 <br/>
 
 ### Code Output in Command Line  vs   Text File
-<table><tr> 555</tr> </table>
-<table><tr> 666</tr> </table>
+<table><tr> 555</tr> <tr> 666</tr> </table>
 <p align="center">
   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/02.png"/>  - - - - 
   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/01.png"/>
