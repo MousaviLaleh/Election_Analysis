@@ -25,7 +25,7 @@ We are tasked with reporting :
 #### :black_medium_square: Open, read & write the file
 One of the most important steps in data analytics is opening, reading, and writing a file. Opening and reading a file is the first step that needs to be done in order to start data analysis.<br/>
 
-**1. Import dependencies**  <br/>
+**1. Import dependencies**
    <p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/06.png"></p>
   
   - ```import csv``` :  allows to easily pull data from external CSV files and perform operations on them. This dependency includes the following functions:
@@ -36,7 +36,7 @@ One of the most important steps in data analytics is opening, reading, and writi
     - path() - allows us to access files on different operating systems.
     - join() - joins file path components together when they are provided as separate strings; then, it returns a direct path with the appropriate operating system separator, forward slash for macOS or backward slash for Windows
 
-**2. Declare a variable, and load a file from the path** <br/>
+**2. Declare a variable, and load a file from the path**
  <p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/07.png"></p>
     
    - ```file_to_load``` - declaring a variable for the file.
