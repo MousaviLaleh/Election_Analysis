@@ -21,6 +21,22 @@ We are tasked with reporting :
 - Note : use 'Windows x86-64 executable installer' for Python, and 'System Installer' version of VS-Code 
 <br/>
 
+### Overview of the methods and code
+#### Open, read & write the file
+One of the most important steps in data analytics is opening, reading, and writing a file. Opening and reading a file is the first step that needs to be done in order to start data analysis.
+1. Import dependencies
+import csv
+import os
+2. Declare a variable, and load a file from the path
+
+3. Open and read the file
+
+4. Declare and and skip the header row
+
+5. Additional code for writing a file
+
+
+
 ### Election Audit Results
 The [analysis](/resources/images/03.png) of the election show that:
 - There were 369,711 votes cast in the election. 
