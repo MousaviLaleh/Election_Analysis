@@ -24,6 +24,7 @@ We are tasked with reporting :
 
 <p align="center">
   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/02.png">
+  <img src="">
   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/01.png">
 </p>
 
