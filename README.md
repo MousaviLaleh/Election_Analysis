@@ -79,6 +79,11 @@ In this function, we must specify the method "w" as the _"write"_ mode in order 
 With the _write()_ function, we declare what to write in a txt_file. txt_file is a new variable that is passed on from “original variable file_to_save”. In parentheses (election_results) is a name of a variable that contains data about what we want to write in a file.  <br/>
 
 #### :black_medium_square: Looping through dictionaries and the lists
+In order to loop through specific data sets and retrieve elements, it is essential to know their properties. <br/>
+   - Lists are mutable and ordered - indexing is possible. 
+   - Dictionaries are mutable and unordered - indexing is not possible.
+   - Dictionary keys are immutable and has to be unique, while values are more flexible and can be mutable.
+   - 
 #### :black_medium_square: The get() method
 #### :black_medium_square: Finding the winner
 #### :black_medium_square: 
