@@ -22,8 +22,8 @@ We are tasked with reporting :
 <br/>
 
 ### Code Output in Command Line  vs   Text File
-<table align="center" border=0>
-  <tr border="0px">
+<table align="center" style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0">
+  <tr>
     <th>in Command Line</th>
     <th></th>
     <th>in Text file</th>
