@@ -49,7 +49,7 @@ One of the most important steps in data analytics is opening, reading, and writi
 <p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/08.png"></p>
    
 **4. Declare and and skip the header row**  <br/>
-<p align="center"><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/09.png"></p>
+<img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/09.png">
 
 
 <p align="center">
