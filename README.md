@@ -27,10 +27,10 @@ One of the most important steps in data analytics is opening, reading, and writi
 1. Import dependencies<br/>
         - ```import csv``` <br/>
         - ```import os```<br/>
-        
-        - import csv :  allows to easily pull data from external CSV files and perform operations on them. This dependency also includes the following functions:
-                - next() - skips the row (most commonly used to skip a header row).
-                - reader() - reads each row from the csv file and return data as a lists of strings (each row is a new list).
+  
+  - import csv :  allows to easily pull data from external CSV files and perform operations on them. This dependency also includes the following functions:
+        - next() - skips the row (most commonly used to skip a header row).
+        - reader() - reads each row from the csv file and return data as a lists of strings (each row is a new list).
 
 2. Declare a variable, and load a file from the path
 
