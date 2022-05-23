@@ -47,6 +47,8 @@ One of the most important steps in data analytics is opening, reading, and writi
     <br/>Note : Directory has to be provided exactly. Letter case matters.
 
 **3. Open and read the file**
+    ```with open(file_to_load) as election_data:
+        file_to_read = csv.reader(election_data)```
 
 **4. Declare and and skip the header row**
 
