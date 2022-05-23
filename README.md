@@ -40,9 +40,9 @@ One of the most important steps in data analytics is opening, reading, and writi
 **2. Declare a variable, and load a file from the path** <br/><br/>
     ```file_to_load = os.path.join("resources", "election_results.csv")``` <br/>
     
-   - file_to_load - declaring a variable for the file.
-   - resources - directory of the file.
-   - election_results.csv - name of the file.
+   - ```file_to_load``` - declaring a variable for the file.
+   - ```resources``` - directory of the file.
+   - ```election_results.csv``` - name of the file.
     
     <br/>Note : Directory has to be provided exactly. Letter case matters.
 
