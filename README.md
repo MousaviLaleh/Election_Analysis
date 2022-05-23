@@ -22,6 +22,19 @@ We are tasked with reporting :
 <br/>
 
 ### Code Output in Command Line  vs   Text File
+<table>
+  <tr>
+    <th>in Command Line</th>
+    <th></th>
+    <th>in Text file</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/02.png"></td>
+    <td></td>
+    <td><img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/01.png"></td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/02.png">  - - - - 
   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/01.png">
