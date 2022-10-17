@@ -1,6 +1,6 @@
-## Election Analysis
+# Election Analysis
 
-### Overview of Election Audit 
+## Overview of Election Audit 
 Analyze and automate the election data using [Python](https://www.python.org/doc/essays/blurb/).<br/>
 
 ### Purpose
@@ -13,7 +13,7 @@ We will have reports for:
 - The percentage of votes for each candidate
 - The winner of the election
 
-#### Resources
+### Resources
 - Data Resources:&nbsp; [election_results.csv](/resources/election_results.csv)<br/>
 - Output File:&nbsp; [election_analysis.txt](/analysis/election_analysis.txt)<br/>
 - Software:&nbsp;  [Python 3.6.1](https://www.python.org/downloads/windows/) &#44;  [Visual Studio Code 1.38.1](https://code.visualstudio.com/download)
@@ -22,7 +22,7 @@ We will have reports for:
 <b>Note:</b>&nbsp; use 'Windows x86-64 executable installer' for Python, and 'System Installer' version of VS-Code 
 
 
-#### Code Output in Command Line  vs   Text File
+## Code Output in Command Line  vs   Text File
 
 <p align="center">
   <img src="https://github.com/MousaviLaleh/Election_Analysis/blob/main/images/02.png"> _ - _ - _ - _ - _
@@ -30,7 +30,7 @@ We will have reports for:
 </p>
 <br/>
 
-### Election Audit Results
+## Election Audit Results
 The [analysis](/images/01.png) of the election show that:
 - There were 369,711 votes cast in the election. 
 
@@ -51,7 +51,7 @@ The [analysis](/images/01.png) of the election show that:
 <br/>
 
 
-### Election Audit Summary
+## Election Audit Summary
 Using a programming language like Python, and writing scripts in Python has many advantages like automating processes, fast execution of the code, and reusing the code for similar projects. <br/>
 This code quickly returns numerous data for a U.S. Congressional Precinct in Colorado, but can be easily used but for other elections as well. This code will automatically :
 - find candidates names,
