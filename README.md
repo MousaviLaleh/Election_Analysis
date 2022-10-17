@@ -17,6 +17,9 @@ We will have reports for:
 - Data Resources:&nbsp; [election_results.csv](/resources/election_results.csv)<br/>
 - Output File:&nbsp; [election_analysis.txt](/analysis/election_analysis.txt)<br/>
 - Software:&nbsp;  [Python 3.6.1](https://www.python.org/downloads/windows/) &#44;  [Visual Studio Code 1.38.1](https://code.visualstudio.com/download)
+
+<br/>
+
 <b>Note:</b>&nbsp; use 'Windows x86-64 executable installer' for Python, and 'System Installer' version of VS-Code 
 
 
