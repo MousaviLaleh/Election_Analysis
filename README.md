@@ -1,7 +1,7 @@
 ## Election Analysis
 
 ### Overview of Election Audit 
-Analyze and automate the election audit using [Python](https://www.python.org/doc/essays/blurb/).<br/>
+Analyze and automate the election data using [Python](https://www.python.org/doc/essays/blurb/).<br/>
 
 ### Purpose
 We will have reports for: 
